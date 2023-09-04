@@ -1,4 +1,4 @@
-<h1 align="center">  Halo semua ! </h1> 
+<h1 align="center">  Hello Everyone ! </h1> 
 
 ## 	Introduction
 - My Name is **Muhammad Syahrul Romadhon**.
