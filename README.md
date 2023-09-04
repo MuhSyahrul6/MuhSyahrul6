@@ -4,7 +4,7 @@
 - My Name is **Muhammad Syahrul Romadhon**.
 - Computer Technology student at [Universitas Teknologi Digital Indonesia](https://www.utdi.ac.id/).
 - Back - End Developer | [Vocasia](https://vocasia.id/).
-- Goal : Be a successful person and being a Programmer
+- Goal : Become a successful Programmer and Become entrepreneurs
 
 
 ## My Portofolio & Social Media : 
