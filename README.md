@@ -1,6 +1,6 @@
 <h1 align="center">  Halo semua ! </h1> 
 
-Saya **Muhammad Syahrul Romadhon**.
+Hallo Saya **Muhammad Syahrul Romadhon**.
 
 ## Berikut Portofolio & Social Media Saya : 
 <a href="https://www.github.com/MuhSyahrul6" target="_blank" rel="noreferrer"><img
