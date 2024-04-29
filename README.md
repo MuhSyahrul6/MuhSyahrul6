@@ -1,4 +1,4 @@
-![Judul Gambar](https://media.tenor.com/images/1234567890abcdef1234567890abcdef/tenor.gif)
+![Contoh Gambar](dino.gif)
 
 <h1 align="center">  Hello Everyone ! </h1> 
 
