@@ -3,7 +3,7 @@
 ## 	Introduction
 - My Name is **Muhammad Syahrul Romadhon**.
 - Computer Technology student at [Universitas Teknologi Digital Indonesia](https://www.utdi.ac.id/).
-- Front - End Developer | Back - End Developer.
+- Full Stack Developer.
 - Goal : Become a successful Programmer and Become entrepreneurs.
 
 
