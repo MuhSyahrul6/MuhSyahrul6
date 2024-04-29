@@ -1,4 +1,6 @@
-![Contoh Gambar](dino.gif)
+<p align="center">
+  <img src="dino.gif" alt="Contoh Gambar">
+</p>
 
 <h1 align="center">  Hello Everyone ! </h1> 
 
