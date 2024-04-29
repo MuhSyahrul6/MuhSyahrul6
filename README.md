@@ -1,3 +1,5 @@
+![Contoh Gambar](tenor.gif)
+
 <h1 align="center">  Hello Everyone ! </h1> 
 
 ## 	Introduction
