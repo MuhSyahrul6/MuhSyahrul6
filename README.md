@@ -1,6 +1,7 @@
 <div style="text-align: center;">
   <img src="dino.gif" alt="Contoh Gambar 1" style="display: block; margin: 0 auto 20px;">
   <img src="dino3.gif" alt="Contoh Gambar 2" style="display: block; margin: 0 auto;">
+  <img src="dino4.gif" alt="Contoh Gambar 3" style="display: block; margin: 0 auto 20px;">
 </div>
 
 
